@@ -1,6 +1,9 @@
 
 ## About This Site
 
+
+![](https://pixabay.com/en/icon-computing-technology-techno-1075208/)
+
 This site was created for learning purpose in ***coding bootcamp*** at [hacktiv8](www.hacktiv8.com)
 where we learn to become _full stack developer_.
 
