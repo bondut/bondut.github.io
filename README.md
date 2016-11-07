@@ -58,4 +58,8 @@ Nama saya Ario, saya merupakan peserta cooding bootcamp di hacktiv8 yang sama se
 Saya berharap apa yang saya pelajari di coding bootcamp ini dapat saya terapkan untuk meningkatkan kualitas hidup masyarakat
 
 
+#### Future Plan
+
+Rencana kedepannya, saya akanmengembangkan website ini menggunakan _Java Script_ yang akan di pelajari di minggu ke 2
+
 
