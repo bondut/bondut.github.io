@@ -1,6 +1,9 @@
 
 ## About This Site
 
+
+![](https://pixabay.com/en/icon-computing-technology-techno-1075208/)
+
 This site was created for learning purpose in ***coding bootcamp*** at [hacktiv8](www.hacktiv8.com)
 where we learn to become _full stack developer_.
 
@@ -57,5 +60,9 @@ where we learn to become _full stack developer_.
 Nama saya Ario, saya merupakan peserta cooding bootcamp di hacktiv8 yang sama sekali tidak memiliki latar belakang IT selain minat dan hoby.
 Saya berharap apa yang saya pelajari di coding bootcamp ini dapat saya terapkan untuk meningkatkan kualitas hidup masyarakat
 
+
+#### Future Plan
+
+Rencana kedepannya, saya akanmengembangkan website ini menggunakan _Java Script_ yang akan di pelajari di minggu ke 2
 
 
